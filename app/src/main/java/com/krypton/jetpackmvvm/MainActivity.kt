@@ -27,6 +27,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
+                    // Comment given for check push operation on the Github.
                     UserScreen()
                 }
             }
